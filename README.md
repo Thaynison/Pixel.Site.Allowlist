@@ -1,6 +1,6 @@
-# Cloud-Bot-Discord-js-v13
+# Cidade Pixel V1
 
-Bot oficial para a sua empresa ainda esta na versão 1.0
+Site oficial para Allowlist do Cidade Pixel
 
 ## Config => (config.js)
 
